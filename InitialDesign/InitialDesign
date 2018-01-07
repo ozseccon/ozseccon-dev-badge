@@ -1,0 +1,36 @@
+Source:	/home/kicad/ozseccon/kicad/InitialDesign/InitialDesign.sch
+Date:	Mon Jan  8 08:01:31 2018
+Tool:	Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1
+Component Count:	31
+Ref	Value	Part	Footprint	Description	Vendor
+AE1	Antenna_Loop	device:Antenna_Loop		Loop Antenna symbol	
+BT1	1020_Keystone	device:Battery_Cell		single battery cell	
+C1	10uF	device:CP		Polarised capacitor	
+C2	10uF	device:CP		Polarised capacitor	
+C3	10nF	device:C		Unpolarized capacitor	
+C4	100nF	device:C		Unpolarized capacitor	
+C5	100nF	device:C		Unpolarized capacitor	
+C6	1uF	device:C		Unpolarized capacitor	
+C7	100nF	device:C		Unpolarized capacitor	
+C8	4.7uF	device:C		Unpolarized capacitor	
+C9	4.7uF	device:C		Unpolarized capacitor	
+C10	100pF	device:C		Unpolarized capacitor	
+C11	10nF	device:C		Unpolarized capacitor	
+D1	5050_LED_RGB	ozsecdev:5050_LED_RGB		5050 RGB LED	
+D2	5050_LED_RGB	ozsecdev:5050_LED_RGB		5050 RGB LED	
+J1	Conn_01x07	conn:Conn_01x07		Generic connector, single row, 01x07	
+J2	Conn_01x04	conn:Conn_01x04		Generic connector, single row, 01x04	
+J3	Conn_01x04	conn:Conn_01x04		Generic connector, single row, 01x04	
+J4	USB_A	conn:USB_A		USB Type A connector	
+J5	Conn_01x02	conn:Conn_01x02		Generic connector, single row, 01x02	
+J6	Conn_01x02	conn:Conn_01x02		Generic connector, single row, 01x02	
+L1	4.7uH	device:L		Inductor	
+R1	22	device:R		Resistor	
+R2	22	device:R		Resistor	
+R3	2.7M	device:R		Resistor	
+R4	470k	device:R		Resistor	
+R5	10k	device:R		Resistor	
+R6	10k	device:R		Resistor	
+U1	TPS61222DCKR	ozsecdev:TPS61222DCKR		TPS6122x Low Input Voltage, 0.7V Boost Converter With 5.5μA Quiescent Current	
+U2	STM32F042C6T6	ozsecdev:STM32F042C6T6	Housings_DFN_LQFP:LQFP-48-1EP_7x7mm_Pitch0.5mm		
+U3	M24SR02-YMN6T	ozsecdev:M24SR02-YMN6T			
