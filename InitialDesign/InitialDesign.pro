@@ -1,4 +1,4 @@
-update=Fri Jan  5 11:53:06 2018
+update=Fri Jan 12 03:31:44 2018
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=lib_sch/ozsecdev
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/kicad/ozseccon/kicad/InitialDesign/pdf/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

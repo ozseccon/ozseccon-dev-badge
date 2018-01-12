@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/home/kicad/ozseccon/kicad/InitialDesign/InitialDesign.sch</source>
-    <date>Mon Jan  8 08:01:31 2018</date>
+    <date>Mon Jan  8 08:44:14 2018</date>
     <tool>Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -521,14 +521,14 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="ozsecdev">
-      <uri>/home/kicad/ozseccon/kicad/InitialDesign/lib_sch/ozsecdev.lib</uri>
-    </library>
     <library logical="device">
       <uri>/usr/share/kicad/library/device.lib</uri>
     </library>
     <library logical="conn">
       <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="ozsecdev">
+      <uri>/home/kicad/ozseccon/kicad/InitialDesign/lib_sch/ozsecdev.lib</uri>
     </library>
   </libraries>
   <nets>
