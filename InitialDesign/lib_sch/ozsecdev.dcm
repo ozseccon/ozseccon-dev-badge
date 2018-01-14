@@ -9,6 +9,10 @@ $CMP 5050_RGB_LED
 D 5050 LED RGB
 $ENDCMP
 #
+$CMP Fiducial
+D Fiducial Mark
+$ENDCMP
+#
 $CMP TPS61222DCKR
 D TPS6122x Low Input Voltage, 0.7V Boost Converter With 5.5μA Quiescent Current
 $ENDCMP
